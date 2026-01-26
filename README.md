@@ -18,9 +18,10 @@ This project analyzes a dataset covering a significant growth period (2014–201
  * **Seasonal Preparation:** Scale inventory and staffing ahead of February to handle the documented peak in annual sales performance.
 ## 🛠 Tools & Technologies
  * **Miro:** Used for project roadmapping, stakeholder mapping, and initial dashboard wireframing.
- * **SQL:** Leveraged for deep-dive data cleaning, handling null values (e.g., "Unknown" body styles/interiors), and aggregating million-row datasets.
+ * **SQL:** Utilized for advanced data cleaning, missing value imputation and complex data exploration to uncover actionable insights.
  * **Excel:** Utilized for data wrangling, pivot table analysis, and preliminary trend calculations.
- * **PowerPoint/PDF:** Used for final data storytelling and executive-level visualization.
+ * **Canva/PDF:** Used for final data storytelling and executive-level visualization.
+ * **Power BI:** Used for data storytelling and executive level visualzation.
 
 ##  🎥 How to View
 
